@@ -2,12 +2,12 @@
   width: 70%;
   margin: auto;
   text-align: center;
+  margin-bottom: 60px;
 }
 
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -38,4 +38,8 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}
+
+.but{
+  text-align: center;
 }
